@@ -6,6 +6,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.1.1](https://github.com/Lrs121/pcloudrs/compare/pcloud-cli-v1.1.0...pcloud-cli-v1.1.1) - 2024-08-22
+
+### Other
+- remove unused dependencies
+
 ## [1.1.0](https://github.com/jdrouet/pcloud/compare/pcloud-cli-v1.0.0...pcloud-cli-v1.1.0) - 2024-08-11
 
 ### Added

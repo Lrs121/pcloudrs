@@ -6,6 +6,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [2.1.0](https://github.com/Lrs121/pcloudrs/compare/pcloud-v2.0.0...pcloud-v2.1.0) - 2024-08-22
+
+### Added
+- add tracing
+
 ## [2.0.0](https://github.com/jdrouet/pcloud/compare/pcloud-v1.1.0...pcloud-v2.0.0) - 2024-08-11
 
 ### Added
